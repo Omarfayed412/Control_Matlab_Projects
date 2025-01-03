@@ -27,8 +27,4 @@ den = [1 14 65 112 60];
 figure 
 rlocus(num, den)
 
-%% section 6
-num = [1 1];
-den = [1 4 -5 0];
-figure 
-rlocus(num, den)
+
